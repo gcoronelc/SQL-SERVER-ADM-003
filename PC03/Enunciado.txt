@@ -1,0 +1,22 @@
+PRACTICA 02
+==========================================================
+
+En la empresa donde trabajan diseñar una estrategia 
+de backup.
+
+- Justifique su respuesta.
+- Desarrollar una simulción.
+- Presentar el video. (enlace)
+
+Grupos de maximo 3 personas.
+
+
+PRACTICA 03
+==========================================================
+
+Programar las tareas que sean necesarias para automatizar
+la estrategia de backup desarrollado en la PRACTICA 02.
+
+En caso de que falle alguna tarea se debe notificar al DBA.
+
+Presentar el informe, los scripts y el video (enlace).
