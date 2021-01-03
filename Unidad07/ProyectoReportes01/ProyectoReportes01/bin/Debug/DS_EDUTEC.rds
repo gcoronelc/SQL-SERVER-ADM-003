@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DS_EDUTEC">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=EGCC2020;Initial Catalog=EduTec</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>17173d2d-5664-451a-889e-d89f74785ed7</DataSourceID>
+</RptDataSource>
